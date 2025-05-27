@@ -1,5 +1,7 @@
-# search-trends-vs-financial-markets - Carrefour Stock Data Collection Script
-This Python script is used for collecting historical stock price data for **Carrefour S.A. (CA.PA)**, a major FMCG retailer listed on **Euronext Paris**, to support the thesis titled:
+# search-trends-vs-financial-markets
+
+# Carrefour Stock Data and Google Trends Keywords Collection Scripts
+This Python script is used for collecting historical stock price data for **Carrefour S.A. (CA.PA)**, a major FMCG retailer listed on **Euronext Paris**, and brand keywords on Google Trends to support the thesis titled:
 > **Linking Google Search Trends to the Financial Performance of Major FMCG Players in France**
 
 
